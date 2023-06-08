@@ -1,0 +1,196 @@
+.check{
+    height: 200;
+    width: 200;
+    border: 3px solid white;
+    
+}
+#box2{
+    font-style: bold;
+    color: blue;
+    margin-left: 1%;
+}
+#box{
+    margin-left: 15%;
+    font-style: bold;
+    color:black;
+}
+
+.has1{
+    width: 10px;
+    background-color: blue;
+    
+    margin-left: 80%;
+    color: whitesmoke;
+    border-radius: 100%;
+    font-size: 30px;
+}
+.has1:hover{
+    box-shadow: 0px 0px 1px 1px grey;
+}
+
+.mainmenubox{
+    gap:40px;
+    display: flex;
+    flex-wrap:wrap;
+    background-color:whitesmoke;
+    margin-left: 160px;
+    margin-right: 60px;
+    gap: 40px; 
+}
+.menubox{
+    height: 200px;
+    width: 300px;
+    margin-top: 50px;
+    border-radius: 10px;
+    background-color: white;
+    border: 2px solid grey;
+    color: rgb(8, 125, 140);
+    text-align:left;
+    padding-left:10px ;
+    padding-right: 10px;
+    gap: 20px;
+    
+}
+
+.menubox:hover{
+    box-shadow: 0px 0px 3px 3px grey;
+}
+
+.check{
+    text-decoration:line-through;
+    color:grey
+}
+.check2{
+    color:grey;
+}
+
+.pg1{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    background-color:white;
+    border: 1px solid white;
+    margin-top: 100px;
+    margin: auto;
+    position: relative;
+    top: 250px;  
+    text-decoration: none;
+}
+.pg3{
+    float: right;
+    font-weight:large;
+    margin-right: 20px;
+    font-size:30px;
+    
+    
+}
+.px3{
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+.parentdiv{
+    filter: blur(5px);
+    position: fixed;
+}
+.bott3{
+    width: 80px;
+    height: 35px;
+    color: white;
+    float: right;
+    margin-top: 40px;
+    margin-right: 20px;
+    background-color: blue;
+}
+.parent{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    background-color:white;
+    border: 1px solid wheat;
+    margin-top: 100px;
+    margin: auto;
+    position: relative;
+    top:250px;  
+}
+.child{
+    text-align: center;
+    color: blue;
+}
+.plus{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: blue;
+    text-align: center;
+    border: 1px solid grey;
+    margin: auto;
+    position: relative;
+    top: 280px; 
+    color: white;
+    font-size: large;
+    margin-left: 51%;
+}
+.newtask{
+    margin: auto;
+    position: relative;
+    top: 250px; 
+    text-align: center;
+    margin-left: 15%;
+    margin-bottom: 20px;
+    font-size: large;
+}
+.back1{
+    font-size: large;
+    text-align: center;
+    top: 220px;
+    position: relative;
+    margin-right: 20%;
+}
+.icon2{
+   top: 350px;
+   font-size: large;
+   text-align: center;
+   top: 200px;
+   position: relative;
+   margin-right: 25%;
+}
+.background{
+    background-color:lightgray;
+}
+.lastdiv1{
+    filter: blur(1px);
+}
+
+.pg4{
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+    background-color:white;
+    border: 1px solid white;
+    margin-top: 100px;
+    margin: auto;
+    position: relative;
+    top: 20px;  
+}
+
+.pf4{
+    float: right;
+    font-weight:large;
+    margin-right: 20px;
+    font-size:30px;   
+}
+.px4{
+    margin-left: 20px;
+    font-size: 20px;
+}
+.holder{
+    margin-left: 20px;
+}
+#newname{
+    background-color: lightgray;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
